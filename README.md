@@ -1,6 +1,6 @@
-# SCAR Stunts
+# SCAR GAME
 
-SCAR Stunts, tarayıcıda ve Windows masaüstünde çalışan bir akrobasi sürüş oyunu ve ders projesidir.
+SCAR GAME, tarayıcıda ve Windows masaüstünde çalışan bir akrobasi sürüş oyunu ve ders projesidir.
 
 **SCAR yazılım geliştirme:** Burak Pehlivan  
 **Bu revizyon:** 24 Kasım 2026
